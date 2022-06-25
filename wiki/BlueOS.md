@@ -6,10 +6,6 @@
 
 ## BlueOS
 
-<a>
-  <img align="left" height="100" alt="pfp" src="https://user-images.githubusercontent.com/58103738/129057670-1a86fcac-1d22-45f9-a5ab-f565a06c7072.png" />
-</a>
-
 |                           |                |
 | ------------------------- | -------------- |
 | **Programmed In**         | PowerPoint VBA |
