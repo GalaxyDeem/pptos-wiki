@@ -7,7 +7,7 @@
 ## BlueOS
 
 <a>
-  <img align="left" height="100" alt="pfp" src="https://i.pinimg.com/474x/80/53/27/805327d9477b489e732e0b0247b7f73f.jpg" />
+  <img align="left" height="100" alt="pfp" src="https://fastly.jwwb.nl/public/p/g/u/temp-azwmkoefkvoupqaocsbe/blueoslogo.png?enable=upscale&overwrite-origin=gcp" />
 </a>
 
 |                           |                               |
@@ -15,8 +15,8 @@
 | **Programmed In**         | PowerPoint VBA                |
 | **OS Family**             | BlueOS                        |
 | **First Release**         | BlueOS Beta 1.0               | 
-| **Latest OS Development** | BlueOS Beta 1.1               |
-| **Latest Stable Release** | BlueOS Beta 1.1               |
+| **Latest OS Development** | BlueOS Build 116              |
+| **Latest Stable Release** | BlueOS Build 115              |
 
 ### BlueOS
 
@@ -24,7 +24,7 @@ BlueOS is a new PowerPoint OS created by GD Software (GalaxyDeem), currently in 
 
 ### BlueOS 1.0
 
-About 1.0.
+This will be the first major public release of BlueOS. No special features that can be shared yet.
 
 
 #### Screenshots
@@ -37,7 +37,7 @@ About 1.0.
 
 #### Downloads
 
-- BlueOS
+- BlueOS 1.0
     - *Not available yet.*
 
 
