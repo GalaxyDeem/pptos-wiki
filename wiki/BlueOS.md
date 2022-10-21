@@ -7,7 +7,7 @@
 ## BlueOS
 
 <a>
-  <img align="left" height="100" alt="pfp" src="https://i.pinimg.com/474x/80/53/27/805327d9477b489e732e0b0247b7f73f.jpg" />
+  <img align="left" height="100" alt="pfp" src="https://fastly.jwwb.nl/public/p/g/u/temp-azwmkoefkvoupqaocsbe/blueoslogo.png" />
 </a>
 
 |                           |                               |
@@ -15,17 +15,22 @@
 | **Programmed In**         | PowerPoint VBA                |
 | **OS Family**             | BlueOS                        |
 | **First Release**         | BlueOS Beta 1.0               | 
-| **Latest OS Development** | BlueOS Beta 1.1               |
-| **Latest Stable Release** | BlueOS Beta 1.1               |
+| **Latest OS Development** | BlueOS Build 116              |
+| **Latest Stable Release** | BlueOS Build 115              |
 
 ### BlueOS
 
-BlueOS is a new PowerPoint OS created by GD Software (GalaxyDeem), currently in beta. It features some 3rd party services, like PowerUI Chat. The official release date is unknown.
+BlueOS is a discontinued PowerPoint OS created by GalaxyDeem. It features some 3rd party services, including PowerUI Chat. The last build that was publicly available was Build 115.
 
-### BlueOS 1.0
+### Versions
 
-About 1.0.
+BlueOS 1.0 (Codename Liquid)
+- BlueOS Beta 1.0
+- BlueOS Beta 1.1
+- BlueOS Build 116
 
+BlueOS 2.0 (Codename Lucid)
+- BlueOS 2: Aurora
 
 #### Screenshots
 
@@ -34,11 +39,8 @@ About 1.0.
 > BlueOS Build 116 Start Menu
 ![2](https://fastly.jwwb.nl/public/p/g/u/temp-azwmkoefkvoupqaocsbe/nw5urj/screenshot451.png?enable=upscale&width=1200)
 
-
 #### Downloads
 
-- BlueOS
-    - *Not available yet.*
-
+The downloads are unavailable, the OS was discontinued.
 
 <body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">
